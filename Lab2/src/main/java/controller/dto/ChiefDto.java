@@ -1,0 +1,1 @@
+package controller.dto;import java.io.Serializable;public class ChiefDto implements Serializable {    private static final long serialVersionUID = 2129649382865264074L;}

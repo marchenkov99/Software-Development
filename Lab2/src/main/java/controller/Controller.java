@@ -1,0 +1,1 @@
+package controller;import java.util.List;public interface Controller {    TableResponse getList(ListRequest request);    TableResponse edit(Object entity);    void delete(List ids);}

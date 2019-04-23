@@ -1,0 +1,1 @@
+package models;import java.util.List;public class Chief extends Person {    private List<Security> wards;}

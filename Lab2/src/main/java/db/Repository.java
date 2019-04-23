@@ -1,0 +1,1 @@
+package db;public interface Repository {}
